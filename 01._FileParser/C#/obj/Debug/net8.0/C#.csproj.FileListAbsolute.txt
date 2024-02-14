@@ -1,0 +1,17 @@
+C:\Users\Balder\source\repos\SiCourseAssignments\01._FileParser\C#\bin\Debug\net8.0\C#.exe
+C:\Users\Balder\source\repos\SiCourseAssignments\01._FileParser\C#\bin\Debug\net8.0\C#.deps.json
+C:\Users\Balder\source\repos\SiCourseAssignments\01._FileParser\C#\bin\Debug\net8.0\C#.runtimeconfig.json
+C:\Users\Balder\source\repos\SiCourseAssignments\01._FileParser\C#\bin\Debug\net8.0\C#.dll
+C:\Users\Balder\source\repos\SiCourseAssignments\01._FileParser\C#\bin\Debug\net8.0\C#.pdb
+C:\Users\Balder\source\repos\SiCourseAssignments\01._FileParser\C#\bin\Debug\net8.0\YamlDotNet.dll
+C:\Users\Balder\source\repos\SiCourseAssignments\01._FileParser\C#\obj\Debug\net8.0\C#.csproj.AssemblyReference.cache
+C:\Users\Balder\source\repos\SiCourseAssignments\01._FileParser\C#\obj\Debug\net8.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Balder\source\repos\SiCourseAssignments\01._FileParser\C#\obj\Debug\net8.0\C#.AssemblyInfoInputs.cache
+C:\Users\Balder\source\repos\SiCourseAssignments\01._FileParser\C#\obj\Debug\net8.0\C#.AssemblyInfo.cs
+C:\Users\Balder\source\repos\SiCourseAssignments\01._FileParser\C#\obj\Debug\net8.0\C#.csproj.CoreCompileInputs.cache
+C:\Users\Balder\source\repos\SiCourseAssignments\01._FileParser\C#\obj\Debug\net8.0\C#.csproj.CopyComplete
+C:\Users\Balder\source\repos\SiCourseAssignments\01._FileParser\C#\obj\Debug\net8.0\C#.dll
+C:\Users\Balder\source\repos\SiCourseAssignments\01._FileParser\C#\obj\Debug\net8.0\refint\C#.dll
+C:\Users\Balder\source\repos\SiCourseAssignments\01._FileParser\C#\obj\Debug\net8.0\C#.pdb
+C:\Users\Balder\source\repos\SiCourseAssignments\01._FileParser\C#\obj\Debug\net8.0\C#.genruntimeconfig.cache
+C:\Users\Balder\source\repos\SiCourseAssignments\01._FileParser\C#\obj\Debug\net8.0\ref\C#.dll

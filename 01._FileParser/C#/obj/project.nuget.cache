@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zcFXzgyOIpmsSOGR5bqKZqasubrwrHYM3BH9I9hYQyFi7FgTUTqAMReP3bHopsnNCHS5V/FkuOtTRcsFbhmoKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Balder\\source\\repos\\SiCourseAssignments\\01._FileParser\\C#\\C#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Balder\\.nuget\\packages\\yamldotnet\\15.1.1\\yamldotnet.15.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
